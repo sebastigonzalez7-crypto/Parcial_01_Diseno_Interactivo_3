@@ -1,0 +1,45 @@
+¿Que es una variable?
+una variable es un contenedor o espacio donde puedes almacenar o guardar cualquier valor ya sea numero,
+texto o un verdadero y falso, etc. para usarlo y modificarlo cuando se necesite.
+
+¿Que es strings?
+Es un tipo de dato que se utiliza para representar un texto, puede incluir letra, numeros,
+espacios o simbolos especiales y para hacer que el programa entienda se encierra en comillas " " 
+o comillas simples ' '.
+
+¿Que es una función?
+Es un bloque de codigo reutilizable que realiza una tarea especifica.
+
+Argumentos: Son los datos que le pasas a la funcion para que pueda trabajar con ellos.
+
+Return: es la instruccicon que indica a a la funcion que valor va a devolver o entregar como resultado
+una vez que la funcion termine su trabajo.
+
+¿Que son las declaraciones (if)?
+una declaracion if es una herramienta de programacion que le permite al codigo tomar decisiones 
+Funciona como un si de la vida real "Si se cumple esta condicion, haz tal cosa; si no haz otra o ignorala.
+
+¿Que son los valores booleanos(true, false)?
+Es un tipo de dato logico que solo puede tener dos estados posibles: verdadero o falso, 
+no admite terminos medios, numero ni textos. 
+
+¿Que es un for?
+Es un bucle o ciclo que se utiliza para repetir un bloque de codigo o 
+una accion varias veces de forma automatica.
+
+¿Que son &&, ||, ! ?
+Los 3 simbolos son operadores logicos que se utilizan para comparar o invertir valores booleanos (true, false) 
+lo que permite crear funciones mas avanzaddas dentro de estructuras como if.
+
+&& / AND: Este operador exige que todas las condiciones se cumplan al mismo tiempo para que el resultado sea verdadero. 
+Si una sola es falsa, todo el resultado es falso.
+
+|| / OR: Este operador se conforma con que al menos una de las condiciones sea verdadera para que todo el resultado sea verdadero. 
+Solo da falso si todas las condiciones son falsas. 
+
+! / NOT: Este operador sirve para invertir el valor booleano. 
+Convierte lo verdadero en falso y lo falso en verdadero. Se lee como lo contrario de... 
+
+¿Que es un Array?
+Tambien conocido como arreglo, lista o vector, 
+es una estructura de datos que te permite almacenar multiples valores en una sola variable.
